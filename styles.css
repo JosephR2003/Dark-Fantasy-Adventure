@@ -1,0 +1,29 @@
+/*main header color white*/
+body{background-color: beige;}/*navy bg color*/
+h1{color:dimgrey;
+    font-size: 4em;
+    font-family: fantasytimes;
+    border: 1px #000 solid;
+    text-align: center;}
+h2{font-family: Helvetica;
+    color:white;
+    border: 1px #000 solid;
+    width: 500px 
+    padding: 1.5em;
+    border-radius: 1em;
+    background-color: purple}
+li a{color:olive}
+li{margin: 1em;}
+a {text-decoration: none;}
+.source{color:red;font-style: italic;}   
+a.source{color:red}
+a.start{border: 1px solid #000;
+    background-color: white;
+    color: darkgreen;
+    padding: 0.5em;
+    margin: 1em;
+    display: block;
+    width: 200px;
+    text-align: center;
+    border-radius: 0 auto;}
+img{margin: 0 auto;}
